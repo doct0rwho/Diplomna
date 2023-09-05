@@ -1,0 +1,9 @@
+[submodule "sasha"]
+	path = sasha
+	url = https://github.com/doct0rwho/api-client
+[submodule "vika"]
+	path = vika
+	url = https://github.com/MrsAstarta/Diplomas
+[submodule "polina"]
+	path = polina
+	url = https://github.com/Polina-Poda/diploma
